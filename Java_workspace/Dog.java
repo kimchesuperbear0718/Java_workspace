@@ -1,0 +1,15 @@
+/*
+java는 클래스라는 단위 기반 언어이므로
+모든 로직은 반드시 class 안에 들어가야 함
+*/
+class Dog{
+	/*현재 까지는 컴파일만 수행한 것이며 
+	 프로그램을 실행해보자
+	 모든 컴파일 기반의 응용 프로그램은 실행하기 위해서는
+	 반드시 프로그램의 시작점 (엔트리 포인트)인 실행부 함수를 
+	 정의해야 한다..(c,python....)
+	 */
+	 public static void main(String[] args){
+	     System.out.print("a Dog is running..");
+	 }
+}
