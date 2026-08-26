@@ -16,3 +16,5 @@
 build/
 out/
 target/
+**/src/**/doc/
+/.metadata/
