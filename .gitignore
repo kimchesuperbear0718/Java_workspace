@@ -1,0 +1,20 @@
+# Java build outputs
+*.class
+
+# Local backups
+*.bak
+
+# Large reference documents
+*.pdf
+
+# IDE metadata
+.idea/
+.vscode/
+*.iml
+
+# Common build directories
+build/
+out/
+target/
+**/src/**/doc/
+/.metadata/
